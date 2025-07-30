@@ -1,0 +1,99 @@
+Book_ID,Title,Writer_ID,Genre_ID,Publication_Year,Availability_Status,Description,Cover_Image
+BK001,Pride and Prejudice,WT001,GN001,1813,Available,"A witty, romantic story about Elizabeth Bennet and Mr. Darcy, exploring themes of love, class, and social expectations in 19th-century England.",BK001.jpeg
+BK002,To Kill a Mockingbird,WT002,GN001,1960,Available,A young girl’s perspective on racial injustice and moral growth in the American South during the 1930s.,BK002.jpeg
+BK003,1984,WT003,GN002,1949,Available,A dystopian novel depicting a totalitarian society under constant surveillance by Big Brother.,BK003.jpeg
+BK004,The Great Gatsby,WT004,GN001,1925,Available,A portrayal of the American Dream's decay through the tragic story of Jay Gatsby and his unrequited love for Daisy Buchanan.,BK004.jpeg
+BK005,Moby-Dick,WT005,GN001,1851,Available,"A complex tale of Captain Ahab’s obsessive quest to kill the white whale, Moby Dick, symbolizing human struggle and ambition.",BK005.jpeg
+BK006,War and Peace,WT006,GN001,1869,Available,"An epic tale of Russian aristocrats during the Napoleonic Wars, exploring themes of love, honor, and history.",BK006.jpeg
+BK007,Crime and Punishment,WT007,GN001,1866,Available,A psychological drama about a man’s guilt and redemption after committing murder in 19th-century Russia.,BK007.jpeg
+BK008,The Catcher in the Rye,WT008,GN001,1951,Available,"A coming-of-age novel about Holden Caulfield’s search for identity and meaning in a confusing, hypocritical world.",BK008.jpeg
+BK009,Wuthering Heights,WT009,GN001,1847,Available,"A dark tale of love, revenge, and passion on the isolated Yorkshire moors.",BK009.jpeg
+BK010,Brave New World,WT010,GN002,1932,Available,"A dystopian view of a society driven by technological control, consumerism, and instant gratification.",BK010.jpeg
+BK011,Dune,WT011,GN002,1965,Available,"An epic saga of political intrigue, religion, and survival on the desert planet of Arrakis.",BK011.jpeg
+BK012,The Lord of the Rings,WT012,GN002,1954,Available,The heroic quest of Frodo and friends to destroy the One Ring and defeat the dark lord Sauron.,BK012.jpeg
+BK013,Neuromancer,WT013,GN002,1984,Available,"A cyberpunk classic that explores artificial intelligence, cyberspace, and the future of technology.",BK013.jpeg
+BK014,The Left Hand of Darkness,WT014,GN002,1969,Available,A journey of political intrigue and friendship on a planet where inhabitants can change gender.,BK014.jpeg
+BK015,Foundation,WT015,GN002,1951,Available,A story of a scientist’s attempt to save civilization by predicting and controlling the future through the science of psychohistory.,BK015.jpeg
+BK016,The Hobbit,WT016,GN002,1937,Available,Bilbo Baggins’s journey from a simple hobbit to a hero in a quest for a dragon’s treasure.,BK016.jpeg
+BK017,Fahrenheit 451,WT017,GN002,1953,Available,"A dystopian story about a future where books are banned, and firemen burn them to maintain social order.",BK017.jpeg
+BK018,Snow Crash,WT018,GN002,1992,Available,"A fast-paced, virtual-reality cyberpunk adventure with elements of linguistics, history, and religion.",BK018.jpeg
+BK019,Ender's Game,WT019,GN002,1985,Available,A young boy is recruited to train in a battle school for children to save humanity from an alien threat.,BK019.jpeg
+BK020,American Gods,WT020,GN002,2001,Available,An American road-trip story blending mythology and modern-day gods competing for relevance.,BK020.jpeg
+BK021,Gone Girl,WT021,GN003,2012,Available,A twisted psychological thriller about a missing wife and the secrets in a troubled marriage.,BK021.jpeg
+BK022,The Girl with the Dragon Tattoo,WT022,GN003,2005,Available,A dark mystery about a journalist and a hacker uncovering family secrets and corporate corruption,BK022.jpeg
+BK023,Sherlock Holmes: The Complete Novels and Stories,WT023,GN003,1887,Available,"A collection of the famous detective’s cases, showcasing his deductive brilliance.",BK023.jpeg
+BK024,And Then There Were None,WT024,GN003,1939,Available,"Ten strangers are invited to an island, where they are killed one by one in a mysterious pattern.",BK024.jpeg
+BK025,The Da Vinci Code,WT025,GN003,2003,Available,A suspenseful chase to uncover a hidden religious truth that could change history.,BK025.jpeg
+BK026,In the Woods,WT026,GN003,2007,Available,A detective grapples with a haunting childhood memory while investigating a present-day murder in his hometown.,BK026.jpeg
+BK027,Rebecca,WT027,GN003,1938,Available,"A gothic thriller about a woman haunted by her husband’s first wife, Rebecca, at an eerie English estate.",BK027.jpeg
+BK028,Big Little Lies,WT028,GN003,2014,Available,"A mystery about the intertwining lives of three women in a small town, culminating in murder.",BK028.jpeg
+BK029,The Silence of the Lambs,WT029,GN003,1988,Available,FBI trainee Clarice Starling faces the terrifying serial killer Hannibal Lecter to catch another killer.,BK029.jpeg
+BK030,The Maltese Falcon,WT030,GN003,1930,Available,A hard-boiled detective thriller about betrayal and the hunt for a priceless statuette.,BK030.jpeg
+BK031,Jane Eyre,WT031,GN004,1847,Available,"A young orphan’s journey to independence, love, and self-respect despite numerous hardships.",BK031.jpeg
+BK032,Outlander,WT032,GN004,1991,Available,A time-travel romance between a WWII nurse and a Scottish Highland warrior in 1743.,BK032.jpeg
+BK033,Gone with the Wind,WT033,GN004,1936,Available,A tale of romance and survival set against the backdrop of the American Civil War.,BK033.jpeg
+BK035,Me Before You,WT035,GN004,2012,Available,The emotional story of a young woman and the paralyzed man she is hired to care for.,BK035.jpeg
+BK036,The Time Traveler’s Wife,WT036,GN004,2003,Available,A tale of a couple navigating a relationship complicated by the husband's involuntary time travel.,BK036.jpeg
+BK037,Twilight,WT037,GN004,2005,Available,"A romance between a teenage girl and a vampire, sparking a love triangle and a supernatural conflict.",BK037.jpeg
+BK038,The Hating Game,WT038,GN004,2016,Available,A modern romantic comedy about two workplace rivals with undeniable chemistry.,BK038.jpeg
+BK039,Eleanor & Park,WT039,GN004,2013,Available,A sweet story of two outsiders who fall in love despite social and personal challenges.,BK039.jpeg
+BK041,Dracula,WT039,GN005,1897,Available,The classic vampire story about Count Dracula’s invasion of England and the fight against him.,BK041.jpeg
+BK042,Frankenstein,WT040,GN005,1818,Available,"A tale of a scientist’s creation that turns against him, exploring themes of humanity and monstrosity.",BK042.jpeg
+BK043,It,WT041,GN005,1986,Available,A horror novel about a group of friends confronting a shape-shifting monster that feeds on fear.,BK043.jpeg
+BK044,The Haunting of Hill House,WT042,GN005,1959,Available,A psychological horror about a haunted mansion and its effect on those who enter.,BK044.jpeg
+BK045,The Exorcist,WT043,GN005,1971,Available,The terrifying story of a young girl possessed by a demon and the priest who tries to save her.,BK045.jpeg
+BK046,Bird Box,WT044,GN005,2014,Available,A post-apocalyptic horror where people must avoid seeing mysterious creatures that drive them to madness.,BK046.jpeg
+BK047,World War Z,WT045,GN005,2006,Available,"An oral history of a global zombie outbreak, detailing human resilience and struggle.",BK047.jpeg
+BK048,The Shining,WT046,GN005,1977,Available,A family’s descent into madness while caretaking a haunted hotel in the isolated Rockies.,BK048.jpeg
+BK049,Coraline,WT047,GN005,2002,Available,A young girl discovers a parallel world with sinister secrets behind its charming facade.,BK049.jpeg
+BK050,Pet Sematary,WT048,GN005,1983,Available,A story of a family’s grief and the consequences of bringing the dead back to life.,BK050.jpeg
+BK051,The Book Thief,WT073,GN006,2005,Available,"A story set in Nazi Germany about a young girl who steals books and shares them, narrated by Death.",BK051.jpeg
+BK052,All the Light We Cannot See,WT059,GN006,2014,Available,The lives of a blind French girl and a German boy converge during WWII.,BK052.jpeg
+BK053,The Nightingale,WT073,GN006,2015,Available,A tale of two sisters in Nazi-occupied France and their roles in the resistance.,BK053.jpeg
+BK054,Memoirs of a Geisha,WT060,GN006,1997,Available,"The life of a young Japanese girl sold to a geisha house, exploring her rise in 20th-century Japan.",BK054.jpeg
+BK055,Atonement,WT056,GN006,2001,Available,A misunderstanding with lifelong consequences changes the lives of a young couple during WWII.,BK055.jpeg
+BK056,The Pillars of the Earth,WT073,GN006,1989,Available,"The building of a cathedral in medieval England, filled with love, ambition, and intrigue.",BK056.jpeg
+BK057,Wolf Hall,WT073,GN006,2009,Available,A portrayal of Thomas Cromwell’s rise to power in the court of Henry VIII.,BK057.jpeg
+BK058,The Other Boleyn Girl,WT073,GN006,2001,Available,"A historical drama about Mary Boleyn and her sister Anne, competing for the love of Henry VIII.",BK058.jpeg
+BK059,The Underground Railroad,WT059,GN006,2016,Available,An alternative history where the Underground Railroad is an actual railroad helping slaves escape.,BK059.jpeg
+BK060,The Help,WT091,GN006,2009,Available,The intertwined lives of Black maids and their white employers in 1960s Mississippi.,BK060.jpeg
+BK061,Sapiens: A Brief History of Humankind,WT099,GN007,2011,Available,An exploration of humanity's evolution from prehistoric times to the modern age.,BK061.jpeg
+BK062,Becoming,WT091,GN007,2018,Available,"A memoir from the former First Lady, recounting her journey from Chicago to the White House.",BK062.jpeg
+BK063,Educated,WT073,GN007,2018,Available,"A woman’s journey from an isolated, survivalist upbringing to earning a PhD at Cambridge.",BK063.jpeg
+BK064,The Immortal Life of Henrietta Lacks,WT099,GN007,2010,Available,"The story of a woman whose cancer cells were harvested without consent, leading to significant scientific advances.",BK064.jpeg
+BK065,The Wright Brothers,WT060,GN007,2015,Available,"The story of Wilbur and Orville Wright, pioneers of aviation, and their groundbreaking invention.",BK065.jpeg
+BK066,Unbroken,WT060,GN007,2010,Available,"The harrowing true story of WWII hero Louis Zamperini, a former Olympian and POW.",BK066.jpeg
+BK067,The Glass Castle,WT091,GN007,2005,Available,A memoir of a turbulent childhood with nonconformist parents.,BK067.jpeg
+BK068,Into the Wild,WT069,GN007,1996,Available,"The life of Christopher McCandless, who ventured into the Alaskan wilderness and perished there.",BK068.jpeg
+BK069,Born a Crime,WT066,GN007,2016,Available,"A humorous and poignant memoir from the comedian, reflecting on his childhood in apartheid South Africa.",BK069.jpeg
+BK070,The Devil in the White City,WT099,GN007,2003,Available,The true story of a serial killer at the 1893 Chicago World’s Fair and the architect behind it.,BK070.jpeg
+BK071,I Know Why the Caged Bird Sings,WT088,GN008,1969,Available,A powerful memoir about Angelou’s childhood and overcoming adversity.,BK071.jpeg
+BK072,The Diary of a Young Girl,WT073,GN008,1947,Available,The famous diary of a Jewish girl hiding from the Nazis in WWII.,BK072.jpeg
+BK073,Long Walk to Freedom,WT080,GN008,1994,Available,"Mandela’s autobiography, recounting his fight against apartheid in South Africa.",BK073.jpeg
+BK074,"Eat, Pray, Love",WT091,GN008,2006,Available,"One woman’s yearlong journey to find herself through food, spirituality, and love.",BK074.jpeg
+BK075,Bossypants,WT066,GN008,2011,Available,Comedian Tina Fey’s humorous memoir on her career and personal life.,BK075.jpeg
+BK076,When Breath Becomes Air,WT069,GN008,2016,Available,A neurosurgeon’s reflections on life and facing terminal illness.,BK076.jpeg
+BK077,Wild,WT091,GN008,2012,Available,Strayed’s transformative solo hike along the Pacific Crest Trail following personal loss.,BK077.jpeg
+BK078,The Year of Magical Thinking,WT089,GN008,2005,Available,A memoir on grief and healing after the loss of Didion’s husband.,BK078.jpeg
+BK079,Just Kids,WT089,GN008,2010,Available,"A story of friendship, love, and art in New York City with photographer Robert Mapplethorpe.",BK079.jpeg
+BK080,A Moveable Feast,WT076,GN008,1964,Available,Hemingway’s memoir of life as a young writer in Paris.,BK080.jpeg
+BK081,Harry Potter and the Sorcerer’s Stone,WT076,GN009,1997,Available,Harry discovers he’s a wizard and begins his studies at Hogwarts School.,BK081.jpeg
+BK082,The Hunger Games,WT066,GN009,2008,Available,"Katniss Everdeen volunteers to participate in a televised, deadly competition.",BK082.jpeg
+BK083,The Fault in Our Stars,WT066,GN009,2012,Available,A love story between two teens facing life-threatening illness.,BK083.jpeg
+BK084,Divergent,WT066,GN009,2011,Available,"In a dystopian society, Tris chooses a faction that challenges her identity and survival.",BK084.jpeg
+BK085,The Perks of Being a Wallflower,WT066,GN009,1999,Available,"A shy teen’s letters reveal his struggles with trauma, friendship, and love.",BK085.jpeg
+BK086,Thirteen Reasons Why,WT066,GN009,2007,Available,A girl leaves behind tapes explaining the reasons for her tragic choice.,BK086.jpeg
+BK087,Looking for Alaska,WT066,GN009,2005,Available,A teen’s search for answers after the sudden death of a close friend.,BK087.jpeg
+BK088,The Maze Runner,WT066,GN009,2009,Available,A group of teens in a maze must find a way out while facing deadly obstacles.,BK088.jpeg
+BK089,Eleanor & Park,WT066,GN009,2013,Available,(See description above in Romance),BK089.jpeg
+BK090,Speak,WT066,GN009,1999,Available,A teenage girl finds her voice after a traumatic incident during her freshman year.,BK090.jpeg
+BK091,Charlotte's Web,WT069,GN010,1952,Available,"A pig named Wilbur is saved by his friend, Charlotte the spider, through her clever web messages.",BK091.jpeg
+BK092,The Little Prince,WT090,GN010,1943,Available,"A young prince travels across planets, learning lessons on life and love.",BK092.jpeg
+BK093,"The Lion, the Witch and the Wardrobe",WT074,GN010,1950,Available,Four siblings discover a magical world in a wardrobe and fight to save it from an evil witch.,BK093.jpeg
+BK094,Where the Wild Things Are,WT079,GN010,1963,Available,A boy named Max imagines traveling to a land of wild creatures.,BK094.jpeg
+BK095,Alice's Adventures in Wonderland,WT080,GN010,1865,Available,Alice falls into a surreal world with strange characters and logic.,BK095.jpeg
+BK096,Goodnight Moon,WT069,GN010,1947,Available,A gentle bedtime story where a bunny says goodnight to familiar objects in the room.,BK096.jpeg
+BK097,Matilda,WT080,GN010,1988,Available,A gifted girl uses her intelligence and telekinetic powers to overcome her neglectful parents and a cruel headmistress.,BK097.jpeg
+BK098,The Secret Garden,WT080,GN010,1911,Available,"A young girl discovers a hidden, neglected garden and transforms it, along with her own life.",BK098.jpeg
+BK099,The Wind in the Willows,WT080,GN010,1908,Available,"The adventures of Mole, Rat, Badger, and Toad in the English countryside.",BK099.jpeg
+BK100,Harry Potter and the Chamber of Secrets,WT076,GN009,1998,Available,"Harry returns to Hogwarts for his second year, uncovering dark secrets and facing new challenges.",BK100.jpeg
