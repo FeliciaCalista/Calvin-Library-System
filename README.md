@@ -2,8 +2,6 @@
 
 **Library Web** is a desktop-based library management system developed using **Python** with a graphical user interface (GUI) built in **Tkinter**. It allows users and staff to manage book collections, handle user interactions, borrow/return books, and monitor the library’s operation—all through a simple and interactive interface.
 
-![Main Screenshot](MAIN.png)
-
 ---
 
 ## Features
